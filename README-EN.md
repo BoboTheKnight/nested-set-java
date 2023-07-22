@@ -1,5 +1,5 @@
 # NestedSetDemo in Java
-##### 📖 English Documentation | [📖 中文文档]((README.md))
+##### 📖 English Documentation | [📖 中文文档](README.md)
 
 An implementation of Nested Set nested set design in Java. 
 The implementation mainly focuses on the processing of the data before it is entered into the database, solving the problem of how to assign left and right values and depth to the data.
