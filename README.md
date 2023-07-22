@@ -1,5 +1,7 @@
 # NestedSetDemo in Java
-[<i class="fa-solid fa-language"></i>   English](https://github.com/BoboTheKnight/nested-set-java/blob/main/README-EN.md)
+
+##### [📖 English Documentation](README-EN.md) | 📖 中文文档
+
 
 用Java实现 Nested Set 嵌套集的设计。该实现主要是聚焦在数据入库前的处理，解决了如何给数据赋左右值和深度的问题。
 
