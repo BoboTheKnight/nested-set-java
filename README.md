@@ -1,4 +1,4 @@
-# NestedSetDemo
+# NestedSetDemo in Java
 用Java实现 Nested Set 嵌套集的设计。该实现主要是聚焦在数据入库前的处理，解决了如何给数据赋左右值和深度的问题。
 
 # 使用方式
@@ -34,4 +34,4 @@ FileNestedSetsDemo[id='b6e8e470-37ff-4679-8d72-2f1535426294', path='...\resource
 
 3. 请注意源码中有两处TODO需要调整，一处是 Start#main() 中，得到数据结果后，需要入库；另一处是 Start#getFileNestedSetsDemoList() 中，treeId 需要根据业务逻辑赋值；你也可自行调整为String类型，给UUID.
 
-建表语句与更多说明，见[用Java实现SQL的嵌套集设计](https://bobotheknight.github.io/docs/sql_design/2022/03/28/implement-SQL-nested-sets-in-Java.html)
+建表语句与更多说明，见[用Java实现SQL的嵌套集设计 - 先序树遍历](https://bobotheknight.github.io/zh-CN/implement-SQL-nested-sets-in-Java-zh/)
